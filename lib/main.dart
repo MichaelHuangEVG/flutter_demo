@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 // 手动引入另一个dart文件
 import "./body.dart";
 
+
+// 参考: https://www.bilibili.com/video/BV1EY41177y4?p=1&vd_source=c3e092d58e396f8fa3e08c0c73c22e38
+// 参考: https://blog.csdn.net/zxc514257857/article/details/102248934
 void main() {
   runApp(const MyApp());
 }
